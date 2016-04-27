@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Test box-->
+    <dimen name="small_box_width">36dp</dimen>
+    <dimen name="small_box_height">36dp</dimen>
+    <dimen name="big_box_width">144dp</dimen>
+    <dimen name="big_box_height">144dp</dimen>
+    <dimen name="xbig_box_width">288dp</dimen>
+    <dimen name="xbig_box_height">288dp</dimen>
+</resources>
